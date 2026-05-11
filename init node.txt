@@ -1,0 +1,15 @@
+> Create Master Project
+> Push Project to Git
+> Create Branch for Project
+> Connect Project to Database
+> Create Route & Controller
+> Register/Login/Logout Profile User
+> Validate
+
+-------------------------------------------
+
+> Create Master Project 
+    - npm init  // package.json
+    - npm install express
+
++ Create index.js   // Route Project
