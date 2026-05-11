@@ -12,4 +12,15 @@
     - npm init  // package.json
     - npm install express
 
+> Push Project to Git
+    - git init
+    - git add .
+    - git commit -m "first init project"
+    - git remote add origin https://github.com/NopPutra/Express-CRUD.git
+    - git branch -M Master
+    - git push -u origin master
+
+    -git checkout -b index.js
+
+
 + Create index.js   // Route Project
