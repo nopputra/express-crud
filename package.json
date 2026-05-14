@@ -2,6 +2,14 @@
   "name": "express-crud",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/NopPutra/Express-CRUD#readme",
+  "bugs": {
+    "url": "https://github.com/NopPutra/Express-CRUD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NopPutra/Express-CRUD.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
