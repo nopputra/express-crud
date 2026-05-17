@@ -1,14 +1,14 @@
 module.exports = {
     config : {
-        app_name : " Demo-Project",
+        app_name : "express-crud",
         app_version : "1.0",
         image_path : "",
         db : {
             HOST : "localhost",
             USER : "root",
             PASSWORD : "",
-            DATABASE : "demo-project",
-            PORT : 6306,
+            DATABASE : "express-crud",
+            PORT : 3306,
         },
     },
 };

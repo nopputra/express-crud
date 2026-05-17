@@ -9,8 +9,13 @@ app.use(cors({ origin: "* "}));
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
-})
+});
+
+require("./src/route/category.route")(app);
+
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
-})
+});
+
+// console.log(`Server is running on http://localhost:${PORT}`);
