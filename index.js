@@ -12,6 +12,7 @@ app.get('/', (req, res) => {
 });
 
 require("./src/route/category.route")(app);
+require("./src/route/auth.route")(app);
 
 
 app.listen(PORT, () => {
