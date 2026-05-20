@@ -10,5 +10,8 @@ module.exports = {
             DATABASE : "express-crud",
             PORT : 3306,
         },
+        token : {
+            access_toekn_key: "KNDIGJDNGURYDBGUEHT29U534Y67@#@#!@#ey4643htehg7y6743h6t2364t326t62t6",
+        }
     },
 };
